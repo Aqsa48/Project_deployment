@@ -44,6 +44,7 @@ Execute the following command in your terminal:
 
 ```bash
 streamlit run app.py
+```
 
 ### 3.2. Interact with the App
 
