@@ -46,6 +46,8 @@ Execute the following command in your terminal:
 streamlit run app.py
 ```
 
+![Deploy](https://raw.githubusercontent.com/Aqsa48/Project_deployment/refs/heads/main/images/image.png)
+
 ### 3.2. Interact with the App
 
 - **Upload your CSV file**: 
