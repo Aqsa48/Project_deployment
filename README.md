@@ -19,7 +19,7 @@ This project is a Streamlit-based web application that provides a simple and int
 ```bash
 git clone https://github.com/yourusername/streamlit-data-preprocessing.git
 cd streamlit-data-preprocessing
-
+```
 ## 2. Install Dependencies
 
 Before running the application, you need to install the required dependencies. Follow these steps:
@@ -33,7 +33,7 @@ Once the virtual environment is activated, install the necessary dependencies fr
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## 3. Run the Application
 
 Once the dependencies are installed, you can run the Streamlit application on your local machine. To do so, follow these steps:
@@ -63,7 +63,7 @@ streamlit run app.py
     - You can visualize the correlation between numerical columns in your dataset using a heatmap, which helps in understanding relationships between features.
     - The heatmap will display the correlation coefficients, making it easier to identify strong positive or negative relationships between variables.
 
-![Deploy]([https://github.com/Aqsa48/Project_deployment/blob/main/images/image.png](https://github.com/Aqsa48/Project_deployment/blob/main/images/working1.png))
+![Deploy]([https://raw.githubusercontent.com/Aqsa48/Project_deployment/refs/heads/main/images/working1.png])
 
 
 
