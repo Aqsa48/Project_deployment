@@ -63,7 +63,9 @@ streamlit run app.py
     - You can visualize the correlation between numerical columns in your dataset using a heatmap, which helps in understanding relationships between features.
     - The heatmap will display the correlation coefficients, making it easier to identify strong positive or negative relationships between variables.
 
-![Deploy]([https://raw.githubusercontent.com/Aqsa48/Project_deployment/refs/heads/main/images/working1.png])
+![Deploy](https://raw.githubusercontent.com/Aqsa48/Project_deployment/refs/heads/main/images/working1.png)
+
+
 
 
 
