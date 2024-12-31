@@ -45,8 +45,6 @@ Execute the following command in your terminal:
 ```bash
 streamlit run app.py
 
-![application run](https://github.com/Aqsa48/Project_deployment/blob/main/images/image.png)
-
 ### 3.2. Interact with the App
 
 - **Upload your CSV file**: 
